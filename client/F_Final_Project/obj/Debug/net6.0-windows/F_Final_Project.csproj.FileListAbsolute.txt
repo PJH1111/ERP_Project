@@ -1,0 +1,211 @@
+C:\Users\dabn1\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project\F_Final_Project\bin\Debug\net6.0-windows\F_Final_Project.exe
+C:\Users\dabn1\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project\F_Final_Project\bin\Debug\net6.0-windows\F_Final_Project.deps.json
+C:\Users\dabn1\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project\F_Final_Project\bin\Debug\net6.0-windows\F_Final_Project.runtimeconfig.json
+C:\Users\dabn1\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project\F_Final_Project\bin\Debug\net6.0-windows\F_Final_Project.dll
+C:\Users\dabn1\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project\F_Final_Project\bin\Debug\net6.0-windows\F_Final_Project.pdb
+C:\Users\dabn1\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project\F_Final_Project\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\dabn1\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project\F_Final_Project\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\dabn1\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project\F_Final_Project\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\dabn1\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project\F_Final_Project\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\dabn1\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project\F_Final_Project\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\dabn1\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project\F_Final_Project\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\dabn1\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project\F_Final_Project\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\dabn1\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project\F_Final_Project\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\dabn1\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project\F_Final_Project\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\dabn1\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project\F_Final_Project\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\dabn1\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project\F_Final_Project\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\dabn1\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.csproj.AssemblyReference.cache
+C:\Users\dabn1\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.LoginApp.resources
+C:\Users\dabn1\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.MainForm.resources
+C:\Users\dabn1\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.csproj.GenerateResource.cache
+C:\Users\dabn1\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dabn1\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.AssemblyInfoInputs.cache
+C:\Users\dabn1\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.AssemblyInfo.cs
+C:\Users\dabn1\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.csproj.CoreCompileInputs.cache
+C:\Users\dabn1\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.csproj.CopyComplete
+C:\Users\dabn1\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.dll
+C:\Users\dabn1\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project\F_Final_Project\obj\Debug\net6.0-windows\refint\F_Final_Project.dll
+C:\Users\dabn1\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.pdb
+C:\Users\dabn1\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.genruntimeconfig.cache
+C:\Users\dabn1\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project\F_Final_Project\obj\Debug\net6.0-windows\ref\F_Final_Project.dll
+C:\Users\dabn1\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.MyPage.resources
+C:\Users\dabn1\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.Properties.Resources.resources
+C:\Users\dabn1\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.Notice.resources
+C:\Users\dabn1\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.Post.resources
+C:\Users\dabn1\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project\F_Final_Project\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\dabn1\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.NoticeBrowse.resources
+C:\Users\dabn1\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.NoticeCreate.resources
+C:\Users\dabn1\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.PostCreate.resources
+C:\Users\dabn1\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.PostBrowse.resources
+C:\Users\dabn1\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.Document.resources
+C:\Users\dabn1\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.Ongoingfile.resources
+C:\Users\dabn1\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.ApplicationForLeave.resources
+C:\Users\dabn1\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.BusinessWorkReport.resources
+C:\Users\dabn1\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.DocumentRegistration.resources
+C:\Users\dabn1\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.EmployeeManagement.resources
+C:\Users\dabn1\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.ShowWorker.resources
+C:\Users\dabn1\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.EmployeeRegistration.resources
+C:\Users\dabn1\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.Attendance.resources
+C:\Users\dabn1\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.AttendanceBrowse.resources
+C:\Users\dabn1\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.Draft.resources
+C:\Users\wlgud\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project-20230421\F_Final_Project\bin\Debug\net6.0-windows\F_Final_Project.exe
+C:\Users\wlgud\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project-20230421\F_Final_Project\bin\Debug\net6.0-windows\F_Final_Project.deps.json
+C:\Users\wlgud\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project-20230421\F_Final_Project\bin\Debug\net6.0-windows\F_Final_Project.runtimeconfig.json
+C:\Users\wlgud\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project-20230421\F_Final_Project\bin\Debug\net6.0-windows\F_Final_Project.dll
+C:\Users\wlgud\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project-20230421\F_Final_Project\bin\Debug\net6.0-windows\F_Final_Project.pdb
+C:\Users\wlgud\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project-20230421\F_Final_Project\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\Users\wlgud\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project-20230421\F_Final_Project\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\Users\wlgud\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project-20230421\F_Final_Project\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\wlgud\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project-20230421\F_Final_Project\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\Users\wlgud\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project-20230421\F_Final_Project\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\Users\wlgud\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project-20230421\F_Final_Project\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\wlgud\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project-20230421\F_Final_Project\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\Users\wlgud\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project-20230421\F_Final_Project\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\wlgud\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project-20230421\F_Final_Project\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\wlgud\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project-20230421\F_Final_Project\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\wlgud\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project-20230421\F_Final_Project\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\wlgud\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project-20230421\F_Final_Project\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\wlgud\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project-20230421\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.csproj.AssemblyReference.cache
+C:\Users\wlgud\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project-20230421\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.ApplicationForLeave.resources
+C:\Users\wlgud\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project-20230421\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.Attendance.resources
+C:\Users\wlgud\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project-20230421\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.AttendanceBrowse.resources
+C:\Users\wlgud\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project-20230421\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.BusinessWorkReport.resources
+C:\Users\wlgud\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project-20230421\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.Document.resources
+C:\Users\wlgud\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project-20230421\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.DocumentRegistration.resources
+C:\Users\wlgud\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project-20230421\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.Draft.resources
+C:\Users\wlgud\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project-20230421\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.EmployeeManagement.resources
+C:\Users\wlgud\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project-20230421\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.EmployeeRegistration.resources
+C:\Users\wlgud\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project-20230421\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.LoginApp.resources
+C:\Users\wlgud\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project-20230421\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.MainForm.resources
+C:\Users\wlgud\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project-20230421\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.MyPage.resources
+C:\Users\wlgud\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project-20230421\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.Notice.resources
+C:\Users\wlgud\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project-20230421\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.NoticeBrowse.resources
+C:\Users\wlgud\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project-20230421\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.NoticeCreate.resources
+C:\Users\wlgud\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project-20230421\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.Ongoingfile.resources
+C:\Users\wlgud\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project-20230421\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.Post.resources
+C:\Users\wlgud\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project-20230421\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.PostBrowse.resources
+C:\Users\wlgud\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project-20230421\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.PostCreate.resources
+C:\Users\wlgud\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project-20230421\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.Properties.Resources.resources
+C:\Users\wlgud\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project-20230421\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.ShowWorker.resources
+C:\Users\wlgud\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project-20230421\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.csproj.GenerateResource.cache
+C:\Users\wlgud\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project-20230421\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wlgud\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project-20230421\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.AssemblyInfoInputs.cache
+C:\Users\wlgud\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project-20230421\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.AssemblyInfo.cs
+C:\Users\wlgud\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project-20230421\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.csproj.CoreCompileInputs.cache
+C:\Users\wlgud\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project-20230421\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.csproj.CopyComplete
+C:\Users\wlgud\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project-20230421\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.dll
+C:\Users\wlgud\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project-20230421\F_Final_Project\obj\Debug\net6.0-windows\refint\F_Final_Project.dll
+C:\Users\wlgud\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project-20230421\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.pdb
+C:\Users\wlgud\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project-20230421\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.genruntimeconfig.cache
+C:\Users\wlgud\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project-20230421\F_Final_Project\obj\Debug\net6.0-windows\ref\F_Final_Project.dll
+C:\Users\wlgud\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project-20230421\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.TeamManagement.resources
+C:\Users\wlgud\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project-20230421\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.Attendance_Manager.resources
+C:\Users\wlgud\OneDrive\바탕 화면\최종프로젝트_사내업무관리시스템\F_Final_Project-20230421\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.Attendance_Workers.resources
+C:\ksh\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.csproj.AssemblyReference.cache
+C:\ksh\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.ApplicationForLeave.resources
+C:\ksh\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.Attendance.resources
+C:\ksh\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.AttendanceBrowse.resources
+C:\ksh\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.Attendance_Manager.resources
+C:\ksh\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.Attendance_Workers.resources
+C:\ksh\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.BusinessWorkReport.resources
+C:\ksh\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.Document.resources
+C:\ksh\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.DocumentRegistration.resources
+C:\ksh\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.Draft.resources
+C:\ksh\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.EmployeeManagement.resources
+C:\ksh\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.EmployeeRegistration.resources
+C:\ksh\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.LoginApp.resources
+C:\ksh\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.MainForm.resources
+C:\ksh\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.MyPage.resources
+C:\ksh\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.Notice.resources
+C:\ksh\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.NoticeBrowse.resources
+C:\ksh\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.NoticeCreate.resources
+C:\ksh\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.Ongoingfile.resources
+C:\ksh\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.Post.resources
+C:\ksh\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.PostBrowse.resources
+C:\ksh\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.PostCreate.resources
+C:\ksh\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.Properties.Resources.resources
+C:\ksh\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.ShowWorker.resources
+C:\ksh\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.TeamManagement.resources
+C:\ksh\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.csproj.GenerateResource.cache
+C:\ksh\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\ksh\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.AssemblyInfoInputs.cache
+C:\ksh\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.AssemblyInfo.cs
+C:\ksh\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.csproj.CoreCompileInputs.cache
+C:\ksh\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.dll
+C:\ksh\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\refint\F_Final_Project.dll
+C:\ksh\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.pdb
+C:\ksh\ERP_project\client\F_Final_Project\bin\Debug\net6.0-windows\F_Final_Project.exe
+C:\ksh\ERP_project\client\F_Final_Project\bin\Debug\net6.0-windows\F_Final_Project.deps.json
+C:\ksh\ERP_project\client\F_Final_Project\bin\Debug\net6.0-windows\F_Final_Project.runtimeconfig.json
+C:\ksh\ERP_project\client\F_Final_Project\bin\Debug\net6.0-windows\F_Final_Project.dll
+C:\ksh\ERP_project\client\F_Final_Project\bin\Debug\net6.0-windows\F_Final_Project.pdb
+C:\ksh\ERP_project\client\F_Final_Project\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\ksh\ERP_project\client\F_Final_Project\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\ksh\ERP_project\client\F_Final_Project\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\ksh\ERP_project\client\F_Final_Project\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\ksh\ERP_project\client\F_Final_Project\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\ksh\ERP_project\client\F_Final_Project\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\ksh\ERP_project\client\F_Final_Project\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\ksh\ERP_project\client\F_Final_Project\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\ksh\ERP_project\client\F_Final_Project\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\ksh\ERP_project\client\F_Final_Project\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\ksh\ERP_project\client\F_Final_Project\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\ksh\ERP_project\client\F_Final_Project\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\ksh\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.csproj.CopyComplete
+C:\ksh\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.genruntimeconfig.cache
+C:\ksh\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\ref\F_Final_Project.dll
+C:\PJH\FinalProject\ERP_project\client\F_Final_Project\bin\Debug\net6.0-windows\F_Final_Project.exe
+C:\PJH\FinalProject\ERP_project\client\F_Final_Project\bin\Debug\net6.0-windows\F_Final_Project.deps.json
+C:\PJH\FinalProject\ERP_project\client\F_Final_Project\bin\Debug\net6.0-windows\F_Final_Project.runtimeconfig.json
+C:\PJH\FinalProject\ERP_project\client\F_Final_Project\bin\Debug\net6.0-windows\F_Final_Project.dll
+C:\PJH\FinalProject\ERP_project\client\F_Final_Project\bin\Debug\net6.0-windows\F_Final_Project.pdb
+C:\PJH\FinalProject\ERP_project\client\F_Final_Project\bin\Debug\net6.0-windows\Google.Protobuf.dll
+C:\PJH\FinalProject\ERP_project\client\F_Final_Project\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+C:\PJH\FinalProject\ERP_project\client\F_Final_Project\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\PJH\FinalProject\ERP_project\client\F_Final_Project\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+C:\PJH\FinalProject\ERP_project\client\F_Final_Project\bin\Debug\net6.0-windows\MySql.Data.dll
+C:\PJH\FinalProject\ERP_project\client\F_Final_Project\bin\Debug\net6.0-windows\Newtonsoft.Json.dll
+C:\PJH\FinalProject\ERP_project\client\F_Final_Project\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+C:\PJH\FinalProject\ERP_project\client\F_Final_Project\bin\Debug\net6.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\PJH\FinalProject\ERP_project\client\F_Final_Project\bin\Debug\net6.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\PJH\FinalProject\ERP_project\client\F_Final_Project\bin\Debug\net6.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\PJH\FinalProject\ERP_project\client\F_Final_Project\bin\Debug\net6.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\PJH\FinalProject\ERP_project\client\F_Final_Project\bin\Debug\net6.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\PJH\FinalProject\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.csproj.AssemblyReference.cache
+C:\PJH\FinalProject\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.ApplicationForLeave.resources
+C:\PJH\FinalProject\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.Attendance.resources
+C:\PJH\FinalProject\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.AttendanceBrowse.resources
+C:\PJH\FinalProject\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.Attendance_Manager.resources
+C:\PJH\FinalProject\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.Attendance_Workers.resources
+C:\PJH\FinalProject\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.BusinessWorkReport.resources
+C:\PJH\FinalProject\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.Document.resources
+C:\PJH\FinalProject\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.DocumentRegistration.resources
+C:\PJH\FinalProject\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.Draft.resources
+C:\PJH\FinalProject\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.EmployeeManagement.resources
+C:\PJH\FinalProject\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.EmployeeRegistration.resources
+C:\PJH\FinalProject\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.LoginApp.resources
+C:\PJH\FinalProject\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.MainForm.resources
+C:\PJH\FinalProject\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.MyPage.resources
+C:\PJH\FinalProject\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.Notice.resources
+C:\PJH\FinalProject\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.NoticeBrowse.resources
+C:\PJH\FinalProject\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.NoticeCreate.resources
+C:\PJH\FinalProject\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.Ongoingfile.resources
+C:\PJH\FinalProject\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.Post.resources
+C:\PJH\FinalProject\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.PostBrowse.resources
+C:\PJH\FinalProject\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.PostCreate.resources
+C:\PJH\FinalProject\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.Properties.Resources.resources
+C:\PJH\FinalProject\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.ShowWorker.resources
+C:\PJH\FinalProject\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.TeamManagement.resources
+C:\PJH\FinalProject\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.csproj.GenerateResource.cache
+C:\PJH\FinalProject\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\PJH\FinalProject\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.AssemblyInfoInputs.cache
+C:\PJH\FinalProject\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.AssemblyInfo.cs
+C:\PJH\FinalProject\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.csproj.CoreCompileInputs.cache
+C:\PJH\FinalProject\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.csproj.CopyComplete
+C:\PJH\FinalProject\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.dll
+C:\PJH\FinalProject\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\refint\F_Final_Project.dll
+C:\PJH\FinalProject\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.pdb
+C:\PJH\FinalProject\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.genruntimeconfig.cache
+C:\PJH\FinalProject\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\ref\F_Final_Project.dll
+C:\ksh\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.Login.resources
+C:\PJH\FinalProject\ERP_project\client\F_Final_Project\obj\Debug\net6.0-windows\F_Final_Project.Login.resources

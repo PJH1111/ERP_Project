@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="ApplicationForLeave.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Attendance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AttendanceBrowse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Attendance_Manager.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Attendance_Workers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BusinessWorkReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Document.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DocumentRegistration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Draft.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EmployeeManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EmployeeRegistration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginApp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MyPage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Notice.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NoticeBrowse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NoticeCreate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Ongoingfile.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Post.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PostBrowse.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PostCreate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ShowWorker.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TeamManagement.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
